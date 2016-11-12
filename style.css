@@ -1,13 +1,33 @@
+.navbar {
+  background-color: #5697ff;
+}
+
+.navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand{
+  color: white;
+}
+
+#about  {
+  background-color: #5697ff;
+  color: white;
+  width: auto;
+  padding-top: 60px;
+  padding-bottom: 200px;
+}
+
 #container {
-	padding-top: 100px;
+  padding-top: 100px;
+}
+
+#contact {
+  padding-top: 100px
 }
 
 .starter-template {
-	padding-top: 100px;
+  padding-top: 100px;
 }
 
 .goals {
-	padding-top: 100px;
+  padding-top: 100px;
 }
 
 /* The only rule that matters */
@@ -25,8 +45,8 @@
 
 /*BILL COUNT SLIDER*/
 .slide { 
-	padding-top: 40px;
-	padding-bottom: 50px;
+  padding-top: 300px;
+  padding-bottom: 200px;
 }
 
 #slider {
